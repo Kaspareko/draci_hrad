@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1640633857 source:c:\users\tomas\documents\ondra\jaroška\informatika\c++\dracihrad\dracihrad\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"mapa.h"
+	"policko.h"
+	"hrac.h"
+	"predmet.h"
+	"prikazy.h"
+
+1640203761 source:c:\users\tomas\documents\ondra\jaroška\informatika\c++\dracihrad\dracihrad\mapa.cpp
+	<iostream>
+	"mapa.h"
+	"policko.h"
+	"hrac.h"
+
+1640203203 c:\users\tomas\documents\ondra\jaroška\informatika\c++\dracihrad\dracihrad\mapa.h
+	"policko.h"
+	"hrac.h"
+
+1639302104 source:c:\users\tomas\documents\ondra\jaroška\informatika\c++\dracihrad\dracihrad\policko.cpp
+	"policko.h"
+
+1640202243 c:\users\tomas\documents\ondra\jaroška\informatika\c++\dracihrad\dracihrad\policko.h
+
+1639303857 source:c:\users\tomas\documents\ondra\jaroška\informatika\c++\dracihrad\dracihrad\predmet.cpp
+	"predmet.h"
+
+1640633263 c:\users\tomas\documents\ondra\jaroška\informatika\c++\dracihrad\dracihrad\predmet.h
+	<iostream>
+
+1640634046 source:c:\users\tomas\documents\ondra\jaroška\informatika\c++\dracihrad\dracihrad\hrac.cpp
+	"hrac.h"
+	"predmet.h"
+
+1640634022 c:\users\tomas\documents\ondra\jaroška\informatika\c++\dracihrad\dracihrad\hrac.h
+	<iostream>
+	"predmet.h"
+
+1640634088 source:c:\users\tomas\documents\ondra\jaroška\informatika\c++\dracihrad\dracihrad\prikazy.cpp
+	"prikazy.h"
+	<iostream>
+	"hrac.h"
+	"mapa.h"
+	"predmet.h"
+
+1640634080 c:\users\tomas\documents\ondra\jaroška\informatika\c++\dracihrad\dracihrad\prikazy.h
+	<iostream>
+	"hrac.h"
+	"mapa.h"
+
